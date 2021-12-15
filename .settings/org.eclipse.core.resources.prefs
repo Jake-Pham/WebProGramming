@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+encoding//src/main/java/KDA/controller/web/LoginController.java=UTF-8
+encoding//src/main/java/KDA/dao/impl/CategoryDaoImpl.java=UTF-8
+encoding//src/main/java/KDA/dao/impl/ProductDaoImpl.java=UTF-8
+encoding//src/main/java/KDA/dao/impl/UserDaoImpl.java=UTF-8
+encoding//src/main/java/KDA/service/impl/CategoryServiceImpl.java=UTF-8
+encoding//src/main/java/KDA/service/impl/ProductServiceImpl.java=UTF-8
+encoding//src/main/webapp/views/admin/add-category.jsp=UTF-8
+encoding//src/main/webapp/views/admin/admin.jsp=UTF-8
